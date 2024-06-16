@@ -1,2 +1,4 @@
 # DNN_XGBoost-for-Binary-Classification-Credit-Scoring
 COMBINED MODEL DEEP NEURAL NETWORK FOR FEATURE ENGINEERING AND EXTREME GRADIENT BOOSTING FOR BINARY CLASSIFICATION IN CREDIT SCORING
+
+A combined DNN-XGBoost model is proposed that combines the strengths of both approaches.   DNN will be used to absorb and extract essential features from large and non-linear data, while XGBoost will utilize these features for credit classification. The integration process begins with data preprocessing, followed by feature extraction by DNN, and concludes with classification by XGBoost.  The results of this study show that the three datasets used, HMEQ, GERMAN, JAPANESE, show better accuracy performance compared to single models such as Decision Tree, Random Forest, Logistic Regression, Support Vector Machine, AdaBoost, Gradient Bosting Machine, and XGBoost itself. 
